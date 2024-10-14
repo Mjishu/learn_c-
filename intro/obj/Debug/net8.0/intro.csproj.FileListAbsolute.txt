@@ -1,0 +1,14 @@
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/intro.AssemblyInfoInputs.cache
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/intro.AssemblyInfo.cs
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/intro.csproj.CoreCompileInputs.cache
+/root/coding/learning/learn_c#/intro/bin/Debug/net8.0/intro
+/root/coding/learning/learn_c#/intro/bin/Debug/net8.0/intro.deps.json
+/root/coding/learning/learn_c#/intro/bin/Debug/net8.0/intro.runtimeconfig.json
+/root/coding/learning/learn_c#/intro/bin/Debug/net8.0/intro.dll
+/root/coding/learning/learn_c#/intro/bin/Debug/net8.0/intro.pdb
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/intro.dll
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/refint/intro.dll
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/intro.pdb
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/intro.genruntimeconfig.cache
+/root/coding/learning/learn_c#/intro/obj/Debug/net8.0/ref/intro.dll
